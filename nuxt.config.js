@@ -14,7 +14,7 @@ module.exports = {
   loading: { color: '#fff' },
   css: [],
   plugins: [],
-  modules: ['@nuxtjs/axios'],
+  modules: ['@nuxtjs/axios', '~/modules/typescript.js'],
   axios: {},
   build: {
     extend(config, ctx) {
