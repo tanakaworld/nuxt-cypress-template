@@ -79,3 +79,7 @@ dist
 
 # IDE
 .idea
+
+# Cypress
+cypress/videos
+cypress/screenshots

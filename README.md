@@ -6,7 +6,7 @@ Nuxt + Cypress https://www.cypress.io/
 
 ## Build Setup
 
-``` bash
+```bash
 # install dependencies
 $ npm ci
 
@@ -22,3 +22,15 @@ $ npm run generate
 ```
 
 For detailed explanation on how things work, checkout [Nuxt.js docs](https://nuxtjs.org).
+
+## E2E
+
+```
+$ npm run e2e:open
+```
+
+## CI
+
+We need to set up cypress project and set recording key as a environment variable.
+[see more info](https://docs.cypress.io/guides/core-concepts/dashboard-service.html#Projects)
+
