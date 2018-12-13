@@ -1,5 +1,7 @@
 # nuxt-cypress-template
 
+[![CircleCI](https://circleci.com/gh/tanakaworld/nuxt-cypress-template.svg?style=svg)](https://circleci.com/gh/tanakaworld/nuxt-cypress-template)
+
 > Template for Nuxt + Cypress + TypeScript
 
 Nuxt + Cypress https://www.cypress.io/
